@@ -1,0 +1,7 @@
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\Matrixokfeltoltese\bin\Debug\Matrixokfeltoltese.exe.config
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\Matrixokfeltoltese\bin\Debug\Matrixokfeltoltese.exe
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\Matrixokfeltoltese\bin\Debug\Matrixokfeltoltese.pdb
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\Matrixokfeltoltese\obj\Debug\Matrixokfeltoltese.csprojAssemblyReference.cache
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\Matrixokfeltoltese\obj\Debug\Matrixokfeltoltese.csproj.CoreCompileInputs.cache
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\Matrixokfeltoltese\obj\Debug\Matrixokfeltoltese.exe
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\Matrixokfeltoltese\obj\Debug\Matrixokfeltoltese.pdb

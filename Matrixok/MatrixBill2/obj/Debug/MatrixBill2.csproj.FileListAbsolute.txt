@@ -1,0 +1,7 @@
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill2\bin\Debug\MatrixBill2.exe.config
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill2\bin\Debug\MatrixBill2.exe
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill2\bin\Debug\MatrixBill2.pdb
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill2\obj\Debug\MatrixBill2.csprojAssemblyReference.cache
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill2\obj\Debug\MatrixBill2.csproj.CoreCompileInputs.cache
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill2\obj\Debug\MatrixBill2.exe
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill2\obj\Debug\MatrixBill2.pdb

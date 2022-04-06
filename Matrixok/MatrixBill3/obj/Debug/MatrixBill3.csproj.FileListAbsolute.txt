@@ -1,0 +1,6 @@
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill3\bin\Debug\MatrixBill3.exe.config
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill3\bin\Debug\MatrixBill3.exe
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill3\bin\Debug\MatrixBill3.pdb
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill3\obj\Debug\MatrixBill3.csproj.CoreCompileInputs.cache
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill3\obj\Debug\MatrixBill3.exe
+C:\Users\Bettyna\source\repos\Matrixokfeltoltese\MatrixBill3\obj\Debug\MatrixBill3.pdb
